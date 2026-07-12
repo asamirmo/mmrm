@@ -5,3 +5,7 @@ aflatoxin <- faraway::aflatoxin
 total <- mean(aflatoxin$total)
 
 
+
+
+
+
